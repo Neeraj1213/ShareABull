@@ -7,7 +7,7 @@ function App() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle the login logic here (e.g., send a request to your server).
+      // login logic
     console.log('Email:', email);
     console.log('Password:', password);
   };
