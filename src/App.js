@@ -8,6 +8,8 @@ function App() {
   const handleSubmit = (e) => {
     e.preventDefault();
       // login logic
+
+      
     console.log('Email:', email);
     console.log('Password:', password);
   };
